@@ -1,8 +1,6 @@
 ### Featured Projects
 
-[![The Unblocked Initiative](https://img.shields.io/badge/Explore-The_Unblocked_Initiative-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hate-yndicate/the-unblocked-initiative)
-
-[![Explore About Hate Syndicate](https://img.shields.io/badge/Explore-About%20Hate%20Syndicate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hate-yndicate/about)
+[![The Unblocked Initiative](https://img.shields.io/badge/Explore-The_Unblocked_Initiative-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hate-yndicate/the-unblocked-initiative) [![Explore About Hate Syndicate](https://img.shields.io/badge/Explore-About%20Hate%20Syndicate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hate-yndicate/about)
 
 *Featured repositories will be showcased here as the organization grows.*
 
