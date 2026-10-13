@@ -26,9 +26,6 @@
   <img src="https://img.shields.io/github/last-commit/Hate-yndicate/.github?style=flat-square&color=8A2BE2&label=Last%20Update" alt="Last Update">
 </p>
 
----
-
-## About HS
 
 **Hate Syndicate** is a collaborative organization built around creativity, development, and shared interests. We bring people together to exchange ideas, work on projects, and build things worth sharing.
 
