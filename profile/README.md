@@ -76,10 +76,15 @@ Short description of the project.
   <img src="https://streak-stats.demolab.com?user=smiledemic&theme=transparent&hide_border=true" alt="smiledemic GitHub contribution streak">
 </p>
 
-## Achievements
+## GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smiledemic&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="smiledemic GitHub trophies">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=smiledemic&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4"
+      alt="smiledemic GitHub Profile Trophies"
+    >
+  </a>
 </p>
 
 ## Get Involved
