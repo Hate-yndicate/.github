@@ -47,43 +47,6 @@ Short description of the project.
   <img src="https://streak-stats.demolab.com?user=smiledemic&theme=transparent&hide_border=true" alt="smiledemic GitHub contribution streak">
 </p>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=smiledemic&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</p>
-
-## 🤝 Get Involved
-
-Interested in collaborating or contributing? Explore our repositories and find a project that interests you.
-
-1. Explore our public repositories.
-2. Read the contribution guidelines in the relevant repository.
-3. Open an issue to report a problem or suggest an improvement.
-4. Submit a pull request when you're ready to contribute.
-
-<p align="center">
-  <a href="https://github.com/orgs/Hate-yndicate/repositories">
-    <img src="https://img.shields.io/badge/Explore-Projects-8A2BE2?style=for-the-badge&logo=github" alt="Explore projects">
-  </a>
-  <a href="https://github.com/orgs/Hate-yndicate/issues">
-    <img src="https://img.shields.io/badge/Report-Issues-d73a4a?style=for-the-badge&logo=github" alt="Report issues">
-  </a>
-</p>
-
-## 🔗 Connect With Us
-
-<p align="center">
-  <a href="https://github.com/Hate-yndicate">
-    <img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Organization">
-  </a>
-  <a href="https://github.com/orgs/Hate-yndicate/repositories">
-    <img src="https://img.shields.io/badge/Explore-Repositories-555555?style=for-the-badge&logo=git&logoColor=white" alt="Repositories">
-  </a>
-</p>
-
 ---
 
 <p align="center">
