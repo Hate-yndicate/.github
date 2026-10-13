@@ -1,3 +1,17 @@
+### Featured Projects
+
+*Featured repositories will be showcased here as the organization grows.*
+
+<!-- Add projects using this template:
+
+### Project Name
+
+Short description of the project.
+
+[![Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hate-yndicate/REPOSITORY)
+
+-->
+
 <p align="center">
   <strong>Independent Minds. Shared Vision. Collective Creation.</strong>
 </p>
@@ -21,20 +35,6 @@
 </p>
 
 ---
-
-### Featured Projects
-
-*Featured repositories will be showcased here as the organization grows.*
-
-<!-- Add projects using this template:
-
-### Project Name
-
-Short description of the project.
-
-[![Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hate-yndicate/REPOSITORY)
-
--->
 
 ## 📊 GitHub Statistics
 
