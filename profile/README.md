@@ -36,8 +36,6 @@ Short description of the project.
 
 ---
 
-## 📊 GitHub Statistics
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=smiledemic&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="smiledemic GitHub statistics">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiledemic&layout=compact&theme=transparent&hide_border=true" alt="smiledemic most used languages">
