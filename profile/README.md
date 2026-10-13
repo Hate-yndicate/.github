@@ -1,9 +1,3 @@
-# 𝕳𝖆𝖙𝖊 §𝖞𝖓𝖉𝖎𝖈𝖆𝖙𝖊
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hate-yndicate/.github/main/src/organization.png" alt="Hate Syndicate Organization" width="100%">
-</p>
-
 <p align="center">
   <strong>Independent Minds. Shared Vision. Collective Creation.</strong>
 </p>
