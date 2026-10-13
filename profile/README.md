@@ -22,33 +22,6 @@
 
 ---
 
-## 🕯️ About HS
-
-**Hate Syndicate** is a collaborative organization built around creativity, development, and shared interests. We bring people together to exchange ideas, work on projects, and build things worth sharing.
-
-Our goal is to create a space where independent creators can collaborate, experiment, and turn their ideas into reality.
-
-## ⚡ What We Do
-
-- **Development** — Building websites, applications, tools, and other digital projects.
-- **Creative Projects** — Exploring design, media, and original ideas.
-- **Collaboration** — Working together, sharing knowledge, and supporting community projects.
-- **Experimentation** — Learning new technologies and exploring unconventional concepts.
-
-## 📂 Explore Our Work
-
-<p align="center">
-  <a href="https://github.com/orgs/Hate-yndicate/repositories">
-    <img src="https://img.shields.io/badge/🗂️_All_Repositories-Browse_Projects-181717?style=for-the-badge" alt="Browse all repositories">
-  </a>
-  <a href="https://github.com/orgs/Hate-yndicate/projects">
-    <img src="https://img.shields.io/badge/📋_Projects-View_Boards-6f42c1?style=for-the-badge" alt="View project boards">
-  </a>
-  <a href="https://github.com/orgs/Hate-yndicate/discussions">
-    <img src="https://img.shields.io/badge/💬_Discussions-Join_the_Conversation-238636?style=for-the-badge" alt="Join discussions">
-  </a>
-</p>
-
 ### Featured Projects
 
 *Featured repositories will be showcased here as the organization grows.*
