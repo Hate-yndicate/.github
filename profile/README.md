@@ -1,5 +1,7 @@
 ### Featured Projects
 
+[![The Unblocked Initiative](https://img.shields.io/badge/Explore-The_Unblocked_Initiative-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hate-yndicate/the-unblocked-initiative)
+
 *Featured repositories will be showcased here as the organization grows.*
 
 <!-- Add projects using this template:
