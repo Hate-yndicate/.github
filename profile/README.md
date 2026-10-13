@@ -3,9 +3,6 @@
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/Hate-yndicate/.github/main/src/organization.png" alt="Hate Syndicate Organization" width="100%">
 </p>-->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=smiledemic&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center">
   
   <strong>Independent Minds. Shared Vision. Collective Creation.</strong>
 </p>
