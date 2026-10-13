@@ -71,12 +71,12 @@ Short description of the project.
 ## GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hate-yndicate&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Hate Syndicate GitHub statistics">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hate-yndicate&layout=compact&theme=transparent&hide_border=true" alt="Most used languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smiledemic&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="smiledemic GitHub statistics">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiledemic&layout=compact&theme=transparent&hide_border=true" alt="smiledemic most used languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hate-yndicate&theme=transparent&hide_border=true" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com?user=smiledemic&theme=transparent&hide_border=true" alt="smiledemic GitHub contribution streak">
 </p>
 
 ## Achievements
