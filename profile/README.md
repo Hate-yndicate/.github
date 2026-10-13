@@ -1,5 +1,10 @@
+# 𝕳𝖆𝖙𝖊 §𝖞𝖓𝖉𝖎𝖈𝖆𝖙𝖊
 
-  <p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hate-yndicate/.github/main/src/organization.png" alt="Hate Syndicate Organization" width="100%">
+</p>
+
+<p align="center">
   <strong>Independent Minds. Shared Vision. Collective Creation.</strong>
 </p>
 
@@ -21,19 +26,22 @@
   <img src="https://img.shields.io/github/last-commit/Hate-yndicate/.github?style=flat-square&color=8A2BE2&label=Last%20Update" alt="Last Update">
 </p>
 
+---
+
+## 🕯️ About HS
 
 **Hate Syndicate** is a collaborative organization built around creativity, development, and shared interests. We bring people together to exchange ideas, work on projects, and build things worth sharing.
 
 Our goal is to create a space where independent creators can collaborate, experiment, and turn their ideas into reality.
 
-## What We Do
+## ⚡ What We Do
 
 - **Development** — Building websites, applications, tools, and other digital projects.
 - **Creative Projects** — Exploring design, media, and original ideas.
 - **Collaboration** — Working together, sharing knowledge, and supporting community projects.
 - **Experimentation** — Learning new technologies and exploring unconventional concepts.
 
-## Explore Our Work
+## 📂 Explore Our Work
 
 <p align="center">
   <a href="https://github.com/orgs/Hate-yndicate/repositories">
@@ -54,13 +62,14 @@ Our goal is to create a space where independent creators can collaborate, experi
 <!-- Add projects using this template:
 
 ### Project Name
+
 Short description of the project.
 
 [![Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hate-yndicate/REPOSITORY)
 
 -->
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=smiledemic&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="smiledemic GitHub statistics">
@@ -71,18 +80,15 @@ Short description of the project.
   <img src="https://streak-stats.demolab.com?user=smiledemic&theme=transparent&hide_border=true" alt="smiledemic GitHub contribution streak">
 </p>
 
-## GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=smiledemic&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4"
-      alt="smiledemic GitHub Profile Trophies"
-    >
-  </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=smiledemic&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
 
-## Get Involved
+## 🤝 Get Involved
 
 Interested in collaborating or contributing? Explore our repositories and find a project that interests you.
 
@@ -100,11 +106,11 @@ Interested in collaborating or contributing? Explore our repositories and find a
   </a>
 </p>
 
-## Connect With Us
+## 🔗 Connect With Us
 
 <p align="center">
   <a href="https://github.com/Hate-yndicate">
-    <img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Organization">
   </a>
   <a href="https://github.com/orgs/Hate-yndicate/repositories">
     <img src="https://img.shields.io/badge/Explore-Repositories-555555?style=for-the-badge&logo=git&logoColor=white" alt="Repositories">
