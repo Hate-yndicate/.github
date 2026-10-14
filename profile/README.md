@@ -1,18 +1,8 @@
-### Featured Projects
+### ****Featured Projects****
 
 [![The Unblocked Initiative](https://img.shields.io/badge/Explore-The_Unblocked_Initiative-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hate-yndicate/the-unblocked-initiative) [![Explore About Hate Syndicate](https://img.shields.io/badge/Explore-About%20Hate%20Syndicate-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hate-yndicate/about)
 
 *Featured repositories will be showcased here as the organization grows.*
-
-<!-- Add projects using this template:
-
-### Project Name
-
-Short description of the project.
-
-[![Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Hate-yndicate/REPOSITORY)
-
--->
 
 <p align="center">
   <strong>Independent Minds. Shared Vision. Collective Creation.</strong>
@@ -37,14 +27,18 @@ Short description of the project.
 
 ---
 
+
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smiledemic&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="smiledemic GitHub statistics">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiledemic&layout=compact&theme=transparent&hide_border=true" alt="smiledemic most used languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=smiledemic&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=DC2626&text_color=24292F&icon_color=DC2626&ring_color=DC2626&rank_icon=github" alt="smiledemic GitHub statistics">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiledemic&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=DC2626&text_color=24292F" alt="smiledemic most used languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=smiledemic&theme=transparent&hide_border=true" alt="smiledemic GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com?user=smiledemic&hide_border=true&background=FFFFFF&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=6B7280" alt="smiledemic GitHub contribution streak">
 </p>
+
+
 
 ---
 
