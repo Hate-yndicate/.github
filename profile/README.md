@@ -31,7 +31,6 @@ Short description of the project.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hate-yndicate&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/github/created-at/Hate-yndicate/.github?style=flat-square&color=555555&label=Established" alt="Repository Creation Date">
   <img src="https://img.shields.io/github/last-commit/Hate-yndicate/.github?style=flat-square&color=8A2BE2&label=Last%20Update" alt="Last Update">
 </p>
